@@ -1,4 +1,4 @@
 # Curious Orange
-My little toolbox
+My toolbox
 
 Mostly little SQL tricks
