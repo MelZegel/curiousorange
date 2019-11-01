@@ -1,8 +1,9 @@
-# Curious Orange
+# The Curious Orange  
 
-Toolbox
--------
+Mostly little SQL tricks  
 
+Toolbox  
+-------  
 [StackEdit](https://stackedit.io/app#)  
 [HTML editor](https://html5-editor.net/)  
 [draw.io](https://www.draw.io/)  
@@ -13,6 +14,6 @@ Toolbox
 [Repl.it](https://repl.it/)  
 [Mode SQL](https://mode.com/)  
 
+Reference
+---------
 
-Mostly little SQL tricks
-------------------------
