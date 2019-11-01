@@ -16,4 +16,9 @@ Toolbox
 
 Reference
 ---------
+[Oracle database 11gR2](https://docs.oracle.com/cd/E11882_01/index.htm)  
+[OWB 11gR2](https://docs.oracle.com/cd/E11882_01/nav/portal_6.htm) 
+[Oracle OWB Community](https://community.oracle.com/community/groundbreakers/business_intelligence/data_warehousing/warehouse_builder)  
+[Windows schortcut keys](https://www.windowscentral.com/best-windows-10-keyboard-shortcuts)  
+[draw.io shortcuts](https://about.draw.io/wp-content/uploads/2016/11/draw.io_shortcuts_basic_win_161031_EN.pdf)  
 
