@@ -16,8 +16,9 @@ Toolbox
 
 Reference
 ---------
-[Oracle database 11gR2](https://docs.oracle.com/cd/E11882_01/index.htm)
-[Jeff Smith](https://www.thatjeffsmith.com/)
+[Oracle database 11gR2](https://docs.oracle.com/cd/E11882_01/index.htm)    
+[Jeff Smith](https://www.thatjeffsmith.com/)   
+[Oracle doc Explain Plan](https://docs.oracle.com/cd/E25178_01/server.1111/e16638/ex_plan.htm)  
 [OWB 11gR2](https://docs.oracle.com/cd/E11882_01/nav/portal_6.htm)  
 [Oracle OWB Community](https://community.oracle.com/community/groundbreakers/business_intelligence/data_warehousing/warehouse_builder)   
 [Windows schortcut keys](https://www.windowscentral.com/best-windows-10-keyboard-shortcuts)  
