@@ -1,3 +1,5 @@
+![](/curious_orange.jpg)
+
 # The Curious Orange  
 
 Mostly little SQL tricks  
